@@ -1,0 +1,4 @@
+{
+  "module": "../fesm2022/zdc-main-host.mjs",
+  "typings": "../types/zdc-main-host.d.ts"
+}
