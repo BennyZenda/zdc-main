@@ -1,0 +1,4 @@
+{
+  "module": "../fesm2022/zdc-main-client.mjs",
+  "typings": "../types/zdc-main-client.d.ts"
+}
